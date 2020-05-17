@@ -4,3 +4,4 @@ GET,example.com/users/ron_weasley,Request user information of the user identifie
 POST,example.com/order,Add a new order
 PUT,example.com/users/harry_potter,Update the user identified by harry_potter
 DELETE,example.com/order/24354,Delete the order of order identified by 24354
+GET,example.com/users?membership=gold,Request user information from all the users who has gold membership
