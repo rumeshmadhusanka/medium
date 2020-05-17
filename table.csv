@@ -1,1 +1,5 @@
 HTTP verb,URI,Expalanation
+GET,example.com/users,Request user information from all the users
+POST,example.com/order,Add a new order
+PUT,example.com/users/harry_potter,Update the user identified by harry_potter
+DELETE,example.com/order/24354,Delete the order of order identified by 24354
