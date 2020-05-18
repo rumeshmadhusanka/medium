@@ -1,0 +1,5 @@
+Example,Explanation,
+POST /addOrder/123,Do not use verbs in resources,
+GET /DeleteOrder/123,Use the relavant verb for the task,
+POST /orders/123/delete,Again incorrect use of verb,
+GET /orders/123/item/345/endDateOnly,use fitering than an extension to URI,
