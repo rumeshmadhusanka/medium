@@ -1,5 +1,5 @@
-Example
-GET orders/4564
-POST orders/
-PUT orders/4564
-DELETE orders/4564
+Example,
+GET orders/4564,
+POST orders/,
+PUT orders/4564,
+DELETE orders/4564,
